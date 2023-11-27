@@ -1,0 +1,20 @@
+PODS:
+  - QuickLayout (3.0.0)
+  - SwiftEntryKit (1.2.1):
+    - QuickLayout (= 3.0.0)
+
+DEPENDENCIES:
+  - SwiftEntryKit (= 1.2.1)
+
+SPEC REPOS:
+  trunk:
+    - QuickLayout
+    - SwiftEntryKit
+
+SPEC CHECKSUMS:
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  SwiftEntryKit: 1661b766dd22b07679e6ebb326ccfbd81ceb0a20
+
+PODFILE CHECKSUM: 4064d7065c92163bbd75121a64c77c2eee5ade1f
+
+COCOAPODS: 1.12.1

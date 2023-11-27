@@ -1,0 +1,6 @@
+framework module Pods_SitagramLucky_SitagramLuckyUITests {
+  umbrella header "Pods-SitagramLucky-SitagramLuckyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
